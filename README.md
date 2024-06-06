@@ -1,5 +1,6 @@
 # Advanced experiments
 - /demo/experiments/advanced_experiments.ipynb
+- demo/experiments/advanced_experiments_checkpoint
 
 # Proposed Method
 
