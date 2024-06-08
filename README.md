@@ -5,10 +5,8 @@
 
 
 # Table
-
-[README-EN](#README-EN)
-
-[README-KO](#README-KO)
+- [README-EN](#README-EN)
+- [README-KO](#README-KO)
 
 ---
 # README-EN
