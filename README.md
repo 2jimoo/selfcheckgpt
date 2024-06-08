@@ -64,7 +64,9 @@ The proposed method involves replacing the existing DeBERTa-v3 model with HHEM, 
 
 ## SelfcheckGPT with OpenIE
 Based on the observation that N-gram, particularly Unigram score, performed better than BERT Score in prior studies, the proposed method focuses on domain knowledge modeling using OpenIE. This approach intentionally excludes contextual information and utilizes statistically approached n-grams within OpenIE for generating triples. The extracted triples are then vectorized using pre-trained word embedding models, and the similarity between these vectorized triples is assessed. Due to memory constraints, traditional word embedding models like Glove or FastText were replaced with BERT in experiments. The OpenIE score formula is expressed as shown in the literature.
+
 ---
+
 # README-KO
 
 # Purpose
@@ -145,6 +147,7 @@ OpenIE Scoring
 .
 
 ---
+
 # References
 
 1. Chakraborty, N., Ornik, M., & Driggs-Campbell, K. (2024). *Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art*. arXiv preprint arXiv:2403.16527.
